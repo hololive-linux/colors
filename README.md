@@ -6,4 +6,4 @@ These are color schemes for Hololive Linux.
 - [x] Takanshi Kiara
 - [ ] Ninomae Ina'nis
 - [ ] Mori Caliope
-- [ ] Watson Amelia
+- [x] Watson Amelia
